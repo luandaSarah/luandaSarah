@@ -49,8 +49,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luandaSarah&theme=solarized&utcOffset=1)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake-dark.svg" />
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake-light.svg" /> -->
+  <img alt="github-snake" src="https://raw.githubusercontent.com/luandaSarah/luandaSarah/output/github-contribution-grid-snake.svg" />
 </picture>
 
