@@ -2,11 +2,11 @@
 
   # SARAH LUANDA'S GITHUB
 
-  <a href="www.linkedin.com/in/sarah-luanda-844722180">
+  <a href="www.linkedin.com/in/sarah-luanda-844722180](https://www.linkedin.com/in/sarah-luanda-844722180/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
   </a>  
 
-  <a href="mailto:luandasarahpro@protonmail.com">
+  <a href="mailto:luandasarahpro@proton.me">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg">
   </a>  
 
