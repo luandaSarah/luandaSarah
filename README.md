@@ -1,14 +1,8 @@
 <img src="https://raw.githubusercontent.com/luandaSarah/test_image/refs/heads/main/me.png" width="90px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=6D493B&background=E724FF00&vCenter=true&width=435&height=30&lines=Welcome+to+my+GitHub+profile;Feel+free+to+reach+me+out)](https://git.io/typing-svg)
 
   # SARAH LUANDA'S GITHUB
-
-  <a href="www.linkedin.com/in/sarah-luanda-844722180">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
-  </a>  
-
-  <a href="mailto:luandasarahpro@proton.me">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg">
-  </a>  
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)](https://www.linkedin.com/in/sarah-luanda-844722180)
+[![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:luandasarahpro@proton.me)
 
 <table border="hide">
 <tr>
