@@ -11,7 +11,7 @@
   ### About me: 
    - I'm based in France.
     
-   - I'm currently studying web development and cybersecurity.
+   - I'm currently studying web development
      
    - I like contributing to innovative and creative projects
      
